@@ -3,3 +3,4 @@ const user = {
 }
 const stringified = JSON.stringify(user);
 console.log(stringified);
+
